@@ -1,1 +1,1 @@
-print "Ozgur yazılım ulan"
+print "Ozgur yazılım ulan..."
