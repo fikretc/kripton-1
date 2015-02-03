@@ -1,0 +1,1 @@
+print "Ozgur yazılım ulan"
